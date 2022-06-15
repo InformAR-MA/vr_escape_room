@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.myproject2-20280985.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/aidan/OneDrive - Mediacollege Amsterdam/ma jaar 2/bewijzenmap/periode 4/vr escape room/MyProject2/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "MyProject2-20280985 [UE Editor]"
+				}
+			}
+		}
+	]
+}
